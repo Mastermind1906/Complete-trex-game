@@ -1,2 +1,2 @@
-# Complete-trex-game
-Made in p5 editor
+# trex
+Chrome's trex game created using p5.play
